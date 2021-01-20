@@ -1,0 +1,29 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+html, body, #app {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Rubik', sans-serif;
+    background-color: #f5f8fc;
+    display: flex;
+}
+
+* {
+    font-size: 15px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+
+h3 {
+    font-weight: 400;
+    font-size: 20px;
+}
