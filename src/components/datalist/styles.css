@@ -1,0 +1,68 @@
+
+.list-item {
+	display: flex;
+	padding: 10px 0px;
+	align-items: center;
+}
+
+.flag {
+	width: 15px;
+}
+
+.progress {
+	border-left: 1px #cdcdcd55 solid;
+	width: 15%;
+	text-align: center;
+}
+
+.progress .pup {
+	color: green;
+	position: relative;
+}
+
+.progress .pup::after {
+	content: '';
+	border: 7px solid green;
+	border-left-color: transparent;
+	border-top-color: transparent;
+	border-right-color: transparent;
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	bottom: 25%;
+	margin-left: 3px;
+}
+
+.progress .pfixed {
+	color: orange;
+	position: relative;
+}
+
+.progress .pfixed::after {
+	content: '\A';
+	width:10px;
+    height:10px;
+    border-radius:50%;
+    background: orange;
+	position: absolute;
+	bottom: 25%;
+	margin-left: 3px;
+}
+
+.progress .pdown {
+	color: red;
+	position: relative;
+}
+
+.progress .pdown::after {
+	content: '';
+	border: 7px solid red;
+	border-left-color: transparent;
+	border-bottom-color: transparent;
+	border-right-color: transparent;
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	bottom: 0px;
+	margin-left: 3px;
+}

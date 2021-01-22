@@ -6,7 +6,7 @@ import Article from '../../components/article/Article';
 import Header from '../../components/header/Header';
 import Panel from '../../components/panel/Panel';
 import Datalist from '../../components/datalist/Datalist';
-import Graph from '../../components/Graph/Graph';
+import Graph from '../../components/graph/Graph';
 
 import topChart from '../../assets/dataset/topChart.json'
 import appSuggestions from '../../assets/dataset/appSuggestions.json'
