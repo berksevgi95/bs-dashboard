@@ -28,7 +28,7 @@ const Datalist = ({
 	return (
 		<ol>
 			{rawData && rawData.length > 0 && rawData.map((app, index) => (
-				<li className="flex py-3 items-center justify-between" key={app.id}>
+				<li className="flex py-3 items-center justify-between list-item" key={app.id}>
 					<div className="flex items-center">
 						<p className="mr-2">
 							{index + 1}
