@@ -3,17 +3,11 @@
 }
 
 .star .filled {
-    height: 10px;
-    width: 10px;
-    background-color: #193f98;
-    border-radius: 50%;
+    color: orange;
     margin: 1px
 }
 
 .star .empty {
-    height: 10px;
-    width: 10px;
-    border-radius: 50%;
-    background-color: lightgray;
+    color: lightgrey;
     margin: 1px
 }
