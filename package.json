@@ -1,5 +1,5 @@
 {
-  "name": "bs-restaurant-list",
+  "name": "bs-dashboard",
   "version": "0.1.0",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
@@ -28,8 +28,11 @@
     "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
+    "chart.js": "^2.9.4",
+    "moment": "^2.29.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-grid-layout": "^1.2.0",
     "react-router-dom": "^5.2.0"
   }
 }

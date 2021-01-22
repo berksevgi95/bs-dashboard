@@ -1,0 +1,21 @@
+.panel {
+	background-color: white;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+.title {
+	padding: 10px 15px;
+}
+
+.title-border {
+	margin: 0px 15px;
+	border-bottom: 1px #cdcdcd55 solid;
+}
+
+.container {
+	overflow: auto;
+	flex: 1;
+	padding: 15px;
+}

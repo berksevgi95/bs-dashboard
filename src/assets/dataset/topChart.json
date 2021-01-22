@@ -1,0 +1,667 @@
+[
+    {
+     "date" : "2020-10-10",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 2,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 4,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 3,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 5,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 1,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 7,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 6,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 9,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 8,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 10,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    },
+    {
+     "date" : "2020-10-11",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 8,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 6,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 7,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 9,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 10,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 4,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 2,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 3,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 1,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 5,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    },
+    {
+     "date" : "2020-10-12",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 9,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 2,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 1,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 8,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 5,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 4,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 3,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 10,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 6,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 7,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    },
+    {
+     "date" : "2020-10-13",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 8,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 3,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 4,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 9,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 2,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 5,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 6,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 1,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 7,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 10,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    },
+    {
+     "date" : "2020-10-14",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 7,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 6,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 4,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 10,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 9,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 8,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 1,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 2,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 5,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 3,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    },
+    {
+     "date" : "2020-10-15",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 3,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 5,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 10,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 1,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 2,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 7,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 4,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 9,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 8,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 6,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    },
+    {
+     "date" : "2020-10-16",
+     "apps" : [
+        {
+           "id" : 1,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 6,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 2,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 4,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 3,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 5,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 4,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 2,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 5,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 8,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 6,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 10,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 7,
+           "name" : "Drive Climber",
+           "publisher" : "Vodoo",
+           "rating" : 4,
+           "country" : "FR",
+           "rank" : 9,
+           "iconname" : "driveClimberIcon.jpg"
+        },
+        {
+           "id" : 8,
+           "name" : "Facebook Messenger",
+           "publisher" : "Facebook",
+           "rating" : 2,
+           "country" : "US",
+           "rank" : 7,
+           "iconname" : "facebookMessengerIcon.jpg"
+        },
+        {
+           "id" : 9,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 1,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        },
+        {
+           "id" : 10,
+           "name" : "Bowmaster-Multiplayer Game",
+           "publisher" : "Playgendary",
+           "rating" : 4,
+           "country" : "UK",
+           "rank" : 3,
+           "iconname" : "bowMaster-multiplayerGameIcon.jpg"
+        }
+     ]   
+    }
+]

@@ -10,7 +10,9 @@ import './styles.css'
 const Sidebar = () => {
 	return (
 		<nav className="nav">
-			<img className="img" src={Logo}></img>
+			<Link to="/">
+				<img className="img" src={Logo}></img>
+			</Link>
 			<Link to="/dashboard" className="menu-item">
 				<img className="menu-icon" src={DashboardMenuIcon}></img>
 			</Link>
