@@ -1,16 +1,9 @@
-@tailwind base;
-
-@tailwind components;
-
-@tailwind utilities;
-
 html, body, #app {
     height: 100%;
     width: 100%;
     margin: 0px;
     font-family: 'Nunito', sans-serif;
     background-color: #f5f8fc;
-    display: flex;
 }
 
 * {
@@ -26,4 +19,62 @@ h1 {
 h3 {
     font-weight: 700;
     font-size: 18px;
+}
+
+.arrow {
+	border-width: 0 3px 3px 0;
+	display: inline-block;
+	padding: 3px;
+}
+
+.right {
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+}
+
+.left {
+	transform: rotate(135deg);
+	-webkit-transform: rotate(135deg);
+}
+
+.up {
+	transform: rotate(-135deg);
+	-webkit-transform: rotate(-135deg);
+}
+
+.down {
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-1 {
+	flex: 1;
+}
+
+.flex-row {
+	flex-direction: row;
+}
+
+.flex-col {
+	flex-direction: column;
+}
+
+.justify-start {
+	justify-content: flex-start;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+
+.items-center {
+	align-items: center;
+}
+
+.overflow-auto {
+	overflow: auto;
 }

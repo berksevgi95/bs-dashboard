@@ -11,7 +11,7 @@ const Panel = ({
 	return (
 		<div className={`panel ${className}`} {...props}>
 			{title && (
-				<div>
+				<div className="cursor-move">
 					<h3 className="title">{title}</h3>
 					<div className="title-border"/>
 				</div>

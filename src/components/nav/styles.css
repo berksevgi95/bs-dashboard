@@ -1,9 +1,5 @@
 .nav {
 	background-color: #08caff;
-	display: flex;
-	flex-direction: column;
-	justify-content: start;
-	align-items: center;
 }
 
 .img {
@@ -11,10 +7,11 @@
 	margin: 15px;
 }
 
-.menu-item {
-	margin-top: 20px;
+.menu-icon {
+	width: 25px;
 }
 
-.menu-icon {
-	width: 30px;
+.selected {
+	background: linear-gradient(90deg, rgba(8,202,255,1) 50%, rgba(171,237,255,1) 100%);
+	position: relative;
 }

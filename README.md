@@ -1,6 +1,6 @@
-# BSRestaurantList
+# BSDashboard
 
-Simple restaurant listing application created by BS
+Simple dashboard asset created by BS
 
 ## Introduction
 
@@ -11,18 +11,23 @@ To run application server:
 npm start
 ```
 
-Application will be served on `http://127.0.0.1:3000`
+Application will be served on `http://127.0.0.1:8080`
 
 ## Component basis
 
-BSRestaurantList constructed with BS UI Components which is currently implementing by @berksevgi95. Click the [link](https://github.com/berksevgi95/bs-ui-components) to check it out!
-
-There are also several 3rd party npm modules used in this project. Here is the full list:
+Here is the full list of 3rd party npm dependencies used in this project:
 
 <ul>
-    <li>"axios": "^0.21.0",
-    <li>"leaflet": "^1.7.1",
     <li>"react": "^16.13.1",
     <li>"react-dom": "^16.13.1",
     <li>"react-router-dom": "^5.2.0"
+    <li>"postcss": "^6.0.19",
+    <li>"chart.js": "^2.9.4",
+    <li>"moment": "^2.29.1",
+    <li>"react-flagkit": "^2.0.4",
+    <li>"react-grid-layout": "^1.2.0",
 </ul>
+
+## Important Note
+
+Ratings are not displayed properly because of confusing between data with expectations denoted in sheet. It's shown as ratings could be represented with 5 stars however these values can exceed amount of 5 stars. It's not a component bug and it can be easily fixed with a minor improvement.
